@@ -1,7 +1,6 @@
 (defproject wikisearch "0.1.1-SNAPSHOT"
-  :description "The original figwheel flappybird demo"
-
-  :url "http://rigsomelight.com/2014/05/01/interactive-programming-flappy-bird-clojurescript.html"
+  :description "A cljs demo calling wikisearch api"
+  :url "https://www.cern.cc/wikisearch/index.html"
 
   :dependencies [[org.clojure/clojure "1.8.0"]
                  [org.clojure/clojurescript "1.9.293"]
